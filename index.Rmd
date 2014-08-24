@@ -1,6 +1,6 @@
 ---
 title       : Build Data Product Course Project Presentation
-subtitle    : Inference
+subtitle    : Inference - Test Slides
 author      : Ray Bina
 job         : CTO CB
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
